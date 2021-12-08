@@ -1,0 +1,7 @@
+devRegion = "us-east-1"
+vpcCIDR = "192.168.0.0/16"
+pubsubCIDR = "192.168.2.0/24"
+instance_ami = "ami-0ed9277fb7eb570c9"
+instance_type = "t2.micro"
+keypair = "NVirginiaKeyPair"
+AZ = "us-east-1c"
